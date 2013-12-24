@@ -1,7 +1,7 @@
 Integratieproject Webontwikkeling III - Groep 6
 ==============
 
-Index.html gebruiksaanwijzing
+Weersvoorspellingen op basis van Geolocation-coördinaten
 --------------
 
 **Geolocation** 
@@ -19,3 +19,7 @@ Meer info over Open Weather Map en zijn API vindt u op
 
 De opgevraagde weersvoorspellingen voor uw omgeving zullen worden weergegeven op de webpagina zodra ze ontvangen worden van de OpenWeatherMap API. Naarmate het webverkeer op de servers van Open Weather Map kan de tijd die hierover verstrijkt variëren.   
 Initieel worden enkel de weersvoorspellingen voor de dag zelf weergegeven, maar bij het drukken op de knop "Weersvoorspellingen voor morgen tonen" worden de weersvoorspellingen ook weergegeven. Dit kan u weer verbergen door nogmaals op de knop te drukken waarop dan "Weersvoorspellingen voor morgen verbergen" zal staan.
+
+
+Index.html gebruiksaanwijzing
+--------------
