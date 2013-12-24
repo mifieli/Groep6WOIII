@@ -23,3 +23,11 @@ Initieel worden enkel de weersvoorspellingen voor de dag zelf weergegeven, maar 
 
 Index.html gebruiksaanwijzing
 --------------
+
+De volgende stappen zullen uitleggen hoe u de webpagina Index.html dient te gebruiken.  
+
+Allereerst moet de webpagina geopend worden in een browser naar keuze die Gelocation ondersteunt, anders wordt er een foutboodschap weergegeven en kunt u de weersvoorspellingen voor uw omgeving niet raadplegen.
+
+**Geolocation toestaan**
+
+
