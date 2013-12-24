@@ -16,11 +16,9 @@ $(function(){
         showError("Error: Uw browser ondersteunt geen Geolocation!");
     }
 	morgenButton.value = "Weersvoorspellingen voor morgen tonen";
-	console.log(morgenButton.value);
 	
 	weatherTomorrow.hide();
 	$('#morgenTonen').click(function() {
-		console.log(morgenButton.value);
 		if (morgenButton.value == "Weersvoorspellingen voor morgen tonen"){
 		weatherTomorrow.show();
 		morgenButton.value = "Weersvoorspellingen voor morgen verbergen";
@@ -56,8 +54,6 @@ $(function(){
                 var offset = d.getTimezoneOffset()*60*1000;
                 var city = weatherObject.data.city.name;
                 var country = weatherObject.data.city.country;
-				console.log(country);
-				console.log(weatherObject);
 				title.html('Weersvoorspellingen voor: ' + city+', '+country);
 				location.html(city+', <b>'+country+'</b>');
                 $.each(weatherObject.data.list, function(){
@@ -118,11 +114,9 @@ $(function(){
             '</p></div>';
 		'<img src="http://openweathermap.org/img/w/' + icon + '.png" />'
 		if (day.getDay() == currentDate.getDay()){
-		console.log(day + '   en   ' + currentDate);
         weatherToday.append(markup);
 		}
 		else{
-		console.log(day + '   en   ' + currentDate);
 		weatherTomorrow.append(markup);
 		}
     }
