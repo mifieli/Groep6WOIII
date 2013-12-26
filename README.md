@@ -34,6 +34,7 @@ Bij het openen van Index.html zal er gevraagd worden of u toestaat dat de webpag
 De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hieronder vindt u enkele voorbeelden:
 
 *In Firefox:*
+
 ![Firefox location](https://raw.github.com/mifieli/Groep6WOIII/master/img/firefoxLocation.PNG)
 
 
