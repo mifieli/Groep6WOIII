@@ -37,4 +37,9 @@ De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hier
 
 ![Firefox location](https://raw.github.com/mifieli/Groep6WOIII/master/img/firefoxLocation.PNG)
 
+- *In Internet Explorer:*
+![IE location 1](https://raw.github.com/mifieli/Groep6WOIII/master/img/ieLocation1.PNG)
+![IE location 2](https://raw.github.com/mifieli/Groep6WOIII/master/img/ieLocation2.PNG)
+
+
 
