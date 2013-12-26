@@ -45,5 +45,11 @@ De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hier
 
 ![Safari location](https://raw.github.com/mifieli/Groep6WOIII/master/img/safariLocation.PNG)
 
+**Bekijken van weersvoorspellingen**
+
+Nadat u Geolocation heeft toegestaan is er een aanvraag verstuurd naar de API van Open Weather Map. Afhankelijk van het webverkeer op hun servers kan een antwoord snel verkregen worden of kan dit iets langer duren. 
+Een antwoord wordt teruggestuurd in JSON-formaat, deze wordt door het JavaScript-script omgezet in de begrijpbare data die u zal zien verschijnen van zodra deze verkregen en verwerkt is.
+
+
 
 
