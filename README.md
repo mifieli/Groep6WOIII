@@ -50,6 +50,13 @@ De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hier
 Nadat u Geolocation heeft toegestaan is er een aanvraag verstuurd naar de API van Open Weather Map. Afhankelijk van het webverkeer op hun servers kan een antwoord snel verkregen worden of kan dit iets langer duren.  
 Een antwoord wordt teruggestuurd in JSON-formaat, deze wordt door het JavaScript-script omgezet in de begrijpbare data die u zal zien verschijnen van zodra deze verkregen en verwerkt is.
 
+Eenmaal de data verwerkt is kunt u de weersvoorspellingen bekijken. U vindt informatie terug over welk tijdstip precies dat de weersvoorspelling gaat, welk weer er verwacht wordt met een bijpassend icoontje, en welke temperaturen er verwacht kunnen worden. 
+Dit wordt initieel enkel over de dag zelf van de aanvraag weergegeven, u kunt ook de weersvoorspellingen voor de volgende dag bekijken door op de knop te drukken die op onderstaande afbeelding blauw opgelicht staat:
+
+![Webpagina voorbeeld](https://raw.github.com/mifieli/Groep6WOIII/master/img/resultExample.PNG)
+
+U kunt de weersvoorspellingen voor de volgende dag ook weer verbergen door opnieuw op deelfde knop te drukken, die dan de tekst "Weersvoorspellingen voor morgen verbergen" zal dragen.
+
 
 
 
