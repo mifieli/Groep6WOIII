@@ -41,5 +41,9 @@ De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hier
 ![IE location 1](https://raw.github.com/mifieli/Groep6WOIII/master/img/ieLocation1.PNG)
 ![IE location 2](https://raw.github.com/mifieli/Groep6WOIII/master/img/ieLocation2.PNG)
 
+- *In Safari:*
+
+![Safari location](https://raw.github.com/mifieli/Groep6WOIII/master/img/safariLocation.PNG)
+
 
 
