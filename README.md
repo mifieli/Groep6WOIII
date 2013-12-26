@@ -33,7 +33,7 @@ Allereerst moet de webpagina geopend worden in een browser naar keuze die Geloca
 Bij het openen van Index.html zal er gevraagd worden of u toestaat dat de webpagina uw locatie opvraagt. Dit moet u toestaan om van de site gebruik te kunnen maken.  
 De manier waarop dit gevraagd zal worden verschilt van browser tot browser, hieronder vindt u enkele voorbeelden:
 
-*In Firefox:*
+- *In Firefox:*
 
 ![Firefox location](https://raw.github.com/mifieli/Groep6WOIII/master/img/firefoxLocation.PNG)
 
